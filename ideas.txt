@@ -1,0 +1,26 @@
+Prep:
+    1.See of it's possible to get # of hits in the site through web crawling.
+    2.Idem with genre, year in the datasets where it's missing.
+    3.Decide if we're dropping any datasets
+    4.Once we have all relevant fields, remove duplicates
+
+
+Analysis ideas:
+Create alternative top 100s:
+    as described in the goals
+
+Measure of similarity between lyrics:
+    1. find or invent a feature (or set of features) that measures similarity between 2 pieces of text.
+    2. Sample genres/years/whatever and build a "correlation matrix" between songs
+    3. hierarchically cluster together, see which are most similar, which are most different, etc.
+
+Extract themes from lyrics:
+    1. find most common words in lyrics, and words that often appear together with them (within x words, before and after) (follow log-likelihood)
+    2. Get clusters
+
+Train our own lyrics-predictor based on our datasets and see what it comes up with.
+    Markov chains or something?
+
+Make word-clouds
+    it's always pretty interesting
+
