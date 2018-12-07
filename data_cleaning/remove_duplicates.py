@@ -20,7 +20,7 @@ data2["genre"] = ""
 data2["year"] = np.nan
 
 data3["link"] = ""
-data3.drop(["index"], axis=1)
+data3.drop(["index"], axis=1, inplace=True)
 
 data = pd.concat([data1, data2, data3])
 print(data.shape)  # 756766
