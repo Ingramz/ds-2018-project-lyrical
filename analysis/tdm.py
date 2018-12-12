@@ -9,15 +9,15 @@ d["dec"] = d["year"].apply(str).str.slice(0, 3) + "0s"
 d = d[d.dec.isin(["1970s", "1980s", "1990s", "2000s", "2010s"])]
 stopwords = [st.replace("'", "") for st in
              nltk.corpus.stopwords.words("english")] +\
-             ["10", "17", "1st", "20", "2nd", "chorus", "2x", "3x", "30", "4x",
-              "repeat", "repeating", "repeats"]
+             ["1st", "2nd", "chorus", "2x", "3x", "4x", "x2", "x3",
+              "x4", "x5", "x6" "x7", "x8", "repeat", "repeating", "repeats"]
 
 vec = CountVectorizer(stop_words=stopwords, analyzer="word", max_df=0.95,
                       min_df=10, ngram_range=(1, 3), max_features=40000
                       )
 
 # tdm with above parameters gets made and instantly consumed to get just a
-# list of ocurrences across all lyrics (of $max_features most seen words)
+# list of ocurrences across all lyrics (of $max_features most seen n-grams)
 tdm = vec.fit_transform(d.lyrics).sum(axis=0).tolist()[0]
 
 # short for most frequent words,
@@ -38,6 +38,7 @@ for genre in genres:
         vec.fit_transform(d[d.genre == genre].lyrics).sum(axis=0).tolist()[0],
         index=mfw
         )
+    tdm_genre[genre].rename("word")
 tdm_genre = tdm_genre[tdm_genre.sum(axis=1) > 5]
 tdm_genre.to_csv("proc_csv/tdm_pergenre.csv")
 del tdm_genre
@@ -49,6 +50,7 @@ for decade in decades:
         vec.fit_transform(d[d.dec == decade].lyrics).sum(axis=0).tolist()[0],
         index=mfw
         )
+    tdm_decade[decade].rename("word")
 tdm_decade = tdm_decade[tdm_decade.sum(axis=1) > 5]
 tdm_decade.to_csv("proc_csv/tdm_perdecade.csv")
 del tdm_decade
