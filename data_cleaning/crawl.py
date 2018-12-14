@@ -26,21 +26,16 @@ for i, row in d.iterrows():
     soup = BeautifulSoup(r.text, 'html.parser')
 
     # get candidates( many artists )
-    songcandidates = soup.find_all("li", {"class": "song"})
+    search_entries = soup.find_all("li", {"class": "song"})
     artists = []
     titles = []
-    for elem in songcandidates:
+    for elem in search_entries:
         performers = elem.find("div", {"class": "performers"})
-        if not performers:
-            artists.append([])
-            titles.append([])
-            continue
+        if performers.find("a").contents == row.artist
         titles.append(elem.find("div", {"class": "title"}).a.string)
         artists.append([x.string for x in performers.find_all("a")])
-    print(titles)
-    print(artists)
 
-    years = [x.string for x in soup.find_all("td", {"class": "year"})]
+    print(years)
 
 
 
