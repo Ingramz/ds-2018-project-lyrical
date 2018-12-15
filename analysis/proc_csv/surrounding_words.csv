@@ -1,34 +1,34 @@
 ,occ,genre,anchor_word
 like,8874,pop,love
+know,6021,pop,love
 make,5297,pop,love
 one,5097,pop,love
 fall,4860,pop,love
 true,4684,pop,love
 got,4440,pop,love
 way,4438,pop,love
+let,4287,pop,love
 cause,4266,pop,love
-say,4224,pop,love
-give,4184,pop,love
 come,6184,pop,baby
+know,3441,pop,baby
 got,3128,pop,baby
 go,2966,pop,baby
 like,2698,pop,baby
 cause,2608,pop,baby
+hey,2447,pop,baby
 please,2429,pop,baby
+let,2427,pop,baby
 tell,2342,pop,baby
-cant,2198,pop,baby
-get,2167,pop,baby
-thats,1935,pop,baby
 whoa,6855,pop,oh
 uh,4412,pop,oh
 go,3581,pop,oh
+know,3506,pop,oh
 god,3204,pop,oh
 like,2879,pop,oh
+yes,2586,pop,oh
 come,2572,pop,oh
+hey,2482,pop,oh
 say,2456,pop,oh
-ah,2286,pop,oh
-time,2278,pop,oh
-cant,2114,pop,oh
 ah,968,pop,ooh
 like,719,pop,ooh
 wee,598,pop,ooh
@@ -37,10 +37,11 @@ oooh,465,pop,ooh
 go,434,pop,ooh
 hoo,415,pop,ooh
 got,408,pop,ooh
+hey,376,pop,ooh
 whoa,368,pop,ooh
-ohh,343,pop,ooh
 sha,1324,pop,la
 de,922,pop,la
+hey,752,pop,la
 fa,666,pop,la
 dee,584,pop,la
 lala,425,pop,la
@@ -48,7 +49,7 @@ like,412,pop,la
 vie,364,pop,la
 tra,347,pop,la
 say,333,pop,la
-ah,288,pop,la
+hey,856,pop,na
 nana,452,pop,na
 nah,367,pop,na
 right,324,pop,na
@@ -58,17 +59,17 @@ naa,147,pop,na
 wish,146,pop,na
 whoa,146,pop,na
 ah,134,pop,na
-go,134,pop,na
 break,3822,pop,heart
 broken,3211,pop,heart
 got,1838,pop,heart
 like,1741,pop,heart
+let,1629,pop,heart
 take,1414,pop,heart
+know,1391,pop,heart
 broke,1336,pop,heart
 mine,1300,pop,heart
 breaking,1264,pop,heart
-give,1239,pop,heart
-beating,1219,pop,heart
+know,5770,pop,wanna
 see,4301,pop,wanna
 go,4149,pop,wanna
 get,3690,pop,wanna
@@ -78,7 +79,6 @@ say,1777,pop,wanna
 take,1714,pop,wanna
 hear,1701,pop,wanna
 live,1443,pop,wanna
-like,1334,pop,wanna
 merry,2121,pop,christmas
 day,1215,pop,christmas
 tree,875,pop,christmas
@@ -88,87 +88,37 @@ like,425,pop,christmas
 little,419,pop,christmas
 every,342,pop,christmas
 white,311,pop,christmas
-bells,201,pop,christmas
+want,286,pop,christmas
 little,3694,pop,girl
+know,3160,pop,girl
 like,2902,pop,girl
 got,2421,pop,girl
 get,1671,pop,girl
+want,1533,pop,girl
+hey,1466,pop,girl
 go,1337,pop,girl
 good,1290,pop,girl
 come,1168,pop,girl
-see,1093,pop,girl
-one,1062,pop,girl
-cause,1026,pop,girl
-really,2032,pop,need
-someone,1706,pop,need
-cause,1516,pop,need
-one,1477,pop,need
-time,1389,pop,need
-everything,1295,pop,need
-say,1188,pop,need
-get,1121,pop,need
-like,1058,pop,need
-ill,1048,pop,need
-see,3604,pop,want
-really,3391,pop,want
-go,3093,pop,want
-say,2557,pop,want
-make,2488,pop,want
-get,2318,pop,want
-live,1706,pop,want
-hear,1690,pop,want
-back,1675,pop,want
-cause,1649,pop,want
-got,2620,pop,yeah
-like,2510,pop,yeah
-thats,2112,pop,yeah
-uh,2042,pop,yeah
-right,1983,pop,yeah
-come,1905,pop,yeah
-say,1801,pop,yeah
-get,1725,pop,yeah
-go,1608,pop,yeah
-time,1461,pop,yeah
-go,28123,pop,let
-never,6449,pop,let
-see,3697,pop,let
-us,3430,pop,let
-cant,3383,pop,let
-get,2932,pop,let
-ill,2564,pop,let
-tell,2557,pop,let
-come,2282,pop,let
-take,2161,pop,let
-never,8655,pop,know
-cause,6618,pop,know
-ill,5783,pop,know
-got,5495,pop,know
-like,3712,pop,know
-really,3105,pop,know
-cant,2965,pop,know
-even,2932,pop,know
-whats,2809,pop,know
-time,2705,pop,know
 like,1833,hip hop,nigga
 aint,1395,hip hop,nigga
 get,1371,hip hop,nigga
 young,1212,hip hop,nigga
 got,1150,hip hop,nigga
 real,1147,hip hop,nigga
+know,1111,hip hop,nigga
+ass,946,hip hop,nigga
 thats,941,hip hop,nigga
 make,650,hip hop,nigga
-money,616,hip hop,nigga
-cause,592,hip hop,nigga
+know,1338,hip hop,niggas
 like,1333,hip hop,niggas
 get,1136,hip hop,niggas
 real,1122,hip hop,niggas
 aint,881,hip hop,niggas
 got,861,hip hop,niggas
+ass,720,hip hop,niggas
 cause,700,hip hop,niggas
+want,604,hip hop,niggas
 cant,597,hip hop,niggas
-see,496,hip hop,niggas
-make,387,hip hop,niggas
-say,360,hip hop,niggas
 aint,2460,hip hop,shit
 like,2016,hip hop,shit
 got,1406,hip hop,shit
@@ -176,137 +126,87 @@ get,1281,hip hop,shit
 thats,1004,hip hop,shit
 real,944,hip hop,shit
 talk,732,hip hop,shit
+know,723,hip hop,shit
 cause,702,hip hop,shit
 say,594,hip hop,shit
-make,586,hip hop,shit
 like,1214,hip hop,bitch
+ass,1042,hip hop,bitch
 got,914,hip hop,bitch
 get,830,hip hop,bitch
 bad,776,hip hop,bitch
 aint,671,hip hop,bitch
+know,589,hip hop,bitch
 thats,413,hip hop,bitch
+ya,410,hip hop,bitch
 cause,355,hip hop,bitch
-make,323,hip hop,bitch
-back,311,hip hop,bitch
-told,285,hip hop,bitch
+hey,1755,hip hop,yo
+ass,1125,hip hop,yo
 get,945,hip hop,yo
 man,682,hip hop,yo
 like,676,hip hop,yo
 got,588,hip hop,yo
+know,459,hip hop,yo
 ay,417,hip hop,yo
 go,408,hip hop,yo
 whats,406,hip hop,yo
-back,390,hip hop,yo
-uh,376,hip hop,yo
-thats,356,hip hop,yo
+know,389,hip hop,niggaz
 like,375,hip hop,niggaz
 get,311,hip hop,niggaz
+ass,304,hip hop,niggaz
 got,284,hip hop,niggaz
 real,264,hip hop,niggaz
 aint,217,hip hop,niggaz
 cant,204,hip hop,niggaz
 cause,175,hip hop,niggaz
-see,152,hip hop,niggaz
-think,100,hip hop,niggaz
-make,88,hip hop,niggaz
+want,171,hip hop,niggaz
+know,1534,hip hop,yall
 aint,756,hip hop,yall
 like,693,hip hop,yall
 get,529,hip hop,yall
+yes,494,hip hop,yall
+want,467,hip hop,yall
 come,425,hip hop,yall
 cant,393,hip hop,yall
 see,383,hip hop,yall
 got,363,hip hop,yall
-cause,313,hip hop,yall
-really,257,hip hop,yall
-better,255,hip hop,yall
 fuckin,446,hip hop,wit
 rock,423,hip hop,wit
 get,420,hip hop,wit
+ya,414,hip hop,wit
 aint,323,hip hop,wit
 us,275,hip hop,wit
 lean,257,hip hop,wit
 come,247,hip hop,wit
+em,221,hip hop,wit
 hit,196,hip hop,wit
-ride,189,hip hop,wit
-cant,182,hip hop,wit
 give,3263,hip hop,fuck
 around,1205,hip hop,fuck
+em,1104,hip hop,fuck
 get,1095,hip hop,fuck
 like,936,hip hop,fuck
 cant,759,hip hop,fuck
 say,644,hip hop,fuck
+want,575,hip hop,fuck
 man,539,hip hop,fuck
 us,536,hip hop,fuck
-shut,451,hip hop,fuck
-police,406,hip hop,fuck
 bad,606,hip hop,bitches
 like,488,hip hop,bitches
 got,444,hip hop,bitches
 get,335,hip hop,bitches
 money,310,hip hop,bitches
+want,258,hip hop,bitches
+ass,247,hip hop,bitches
+know,240,hip hop,bitches
 aint,230,hip hop,bitches
 bottles,157,hip hop,bitches
-thats,141,hip hop,bitches
-cause,136,hip hop,bitches
-bow,122,hip hop,bitches
-get,1144,hip hop,ass
-like,937,hip hop,ass
-shake,604,hip hop,ass
-got,470,hip hop,ass
-big,431,hip hop,ass
-fat,424,hip hop,ass
-kiss,384,hip hop,ass
-punk,360,hip hop,ass
-kick,337,hip hop,ass
-make,330,hip hop,ass
-get,1202,hip hop,gon
-aint,1006,hip hop,gon
-make,574,hip hop,gon
-ride,344,hip hop,gon
-take,276,hip hop,gon
-stop,274,hip hop,gon
-see,268,hip hop,gon
-never,264,hip hop,gon
-cause,251,hip hop,gon
-like,247,hip hop,gon
-get,2240,hip hop,ya
-see,1906,hip hop,ya
-tell,1736,hip hop,ya
-like,1647,hip hop,ya
-got,1291,hip hop,ya
-ill,1144,hip hop,ya
-make,1057,hip hop,ya
-cant,909,hip hop,ya
-say,787,hip hop,ya
-cause,760,hip hop,ya
-got,457,hip hop,hoes
-like,368,hip hop,hoes
-aint,206,hip hop,hoes
-get,197,hip hop,hoes
-money,180,hip hop,hoes
-keep,126,hip hop,hoes
-cause,111,hip hop,hoes
-cash,108,hip hop,hoes
-tell,94,hip hop,hoes
-thats,78,hip hop,hoes
-tell,2516,hip hop,em
-get,2124,hip hop,em
-like,1606,hip hop,em
-got,1599,hip hop,em
-make,1385,hip hop,em
-hit,1280,hip hop,em
-put,1063,hip hop,em
-give,1002,hip hop,em
-take,856,hip hop,em
-see,798,hip hop,em
 one,385,not available,verse
 two,301,not available,verse
 first,175,not available,verse
 three,149,not available,verse
 like,145,not available,verse
 every,117,not available,verse
-go,89,not available,verse
 second,89,not available,verse
+go,89,not available,verse
 last,85,not available,verse
 time,80,not available,verse
 merry,2121,not available,christmas
@@ -318,66 +218,66 @@ like,425,not available,christmas
 little,419,not available,christmas
 every,342,not available,christmas
 white,311,not available,christmas
-bells,201,not available,christmas
+want,286,not available,christmas
 knows,985,not available,lord
 good,804,not available,lord
 thank,798,not available,lord
 mercy,684,not available,lord
+know,495,not available,lord
 god,374,not available,lord
 please,365,not available,lord
 help,350,not available,lord
+let,346,not available,lord
 got,325,not available,lord
-pray,302,not available,lord
-come,296,not available,lord
 christ,1003,not available,jesus
 name,414,not available,jesus
 like,350,not available,jesus
 loves,279,not available,jesus
+know,208,not available,jesus
 little,197,not available,jesus
 come,194,not available,jesus
+sweet,194,not available,jesus
 see,169,not available,jesus
 washed,149,not available,jesus
-god,120,not available,jesus
-hes,115,not available,jesus
 like,8874,not available,love
+know,6021,not available,love
 make,5297,not available,love
 one,5097,not available,love
 fall,4860,not available,love
 true,4684,not available,love
 got,4440,not available,love
 way,4438,not available,love
+let,4287,not available,love
 cause,4266,not available,love
-say,4224,not available,love
-give,4184,not available,love
 god,237,not available,praise
 give,198,not available,praise
 sing,180,not available,praise
 name,111,not available,praise
+hallelujah,98,not available,praise
 holy,85,not available,praise
+let,75,not available,praise
 thanks,68,not available,praise
 everybody,54,not available,praise
 ill,49,not available,praise
-king,47,not available,praise
-ever,46,not available,praise
+raoul,23,not available,christine
 irene,18,not available,christine
 say,12,not available,christine
 go,10,not available,christine
 like,10,not available,christine
 moment,7,not available,christine
 anderson,7,not available,christine
-sing,6,not available,christine
 think,6,not available,christine
+sing,6,not available,christine
 angel,6,not available,christine
-thats,6,not available,christine
 non,65,not available,che
 ci,40,not available,che
 tu,38,not available,che
 hai,37,not available,che
 il,31,not available,che
 sospiri,30,not available,che
+sento,25,not available,che
 cherry,25,not available,che
 pop,23,not available,che
-ho,20,not available,che
 ti,20,not available,che
 ah,968,not available,ooh
 like,719,not available,ooh
@@ -387,8 +287,8 @@ oooh,465,not available,ooh
 go,434,not available,ooh
 hoo,415,not available,ooh
 got,408,not available,ooh
+hey,376,not available,ooh
 whoa,368,not available,ooh
-ohh,343,not available,ooh
 kurt,42,not available,blaine
 new,35,not available,blaine
 david,29,not available,blaine
@@ -399,56 +299,7 @@ tina,18,not available,blaine
 sam,13,not available,blaine
 like,10,not available,blaine
 one,8,not available,blaine
-boundary,97,not available,document
-arb,62,not available,document
-prove,8,not available,document
-dc,3,not available,document
-travel,2,not available,document
-got,2,not available,document
-madness,2,not available,document
-ill,2,not available,document
-packed,2,not available,document
-paper,2,not available,document
-little,3694,not available,girl
-like,2902,not available,girl
-got,2421,not available,girl
-get,1671,not available,girl
-go,1337,not available,girl
-good,1290,not available,girl
-come,1168,not available,girl
-see,1093,not available,girl
-one,1062,not available,girl
-cause,1026,not available,girl
-come,6184,not available,baby
-got,3128,not available,baby
-go,2966,not available,baby
-like,2698,not available,baby
-cause,2608,not available,baby
-please,2429,not available,baby
-tell,2342,not available,baby
-cant,2198,not available,baby
-get,2167,not available,baby
-thats,1935,not available,baby
-go,52,not available,raoul
-see,30,not available,raoul
-lets,22,not available,raoul
-please,9,not available,raoul
-house,6,not available,raoul
-make,5,not available,raoul
-phantom,5,not available,raoul
-andre,4,not available,raoul
-chose,4,not available,raoul
-useless,3,not available,raoul
-glory,409,not available,hallelujah
-sing,225,not available,hallelujah
-god,99,not available,hallelujah
-singing,94,not available,hallelujah
-broken,60,not available,hallelujah
-hallelu,58,not available,hallelujah
-halle,54,not available,hallelujah
-come,51,not available,hallelujah
-amen,51,not available,hallelujah
-scream,46,not available,hallelujah
+know,4350,rock,well
 never,3009,rock,well
 go,2406,rock,well
 might,2120,rock,well
@@ -458,7 +309,6 @@ together,1537,rock,well
 see,1500,rock,well
 got,1425,rock,well
 say,1401,rock,well
-thats,1393,rock,well
 far,8113,rock,away
 take,6082,rock,away
 walk,6057,rock,away
@@ -469,36 +319,37 @@ fly,3225,rock,away
 fade,3105,rock,away
 never,2164,rock,away
 turn,2032,rock,away
+guitar,414,rock,vocals
 lead,200,rock,vocals
 rhythm,121,rock,vocals
 zappa,110,rock,vocals
+keyboards,110,rock,vocals
 background,107,rock,vocals
 bozzio,102,rock,vocals
 willis,99,rock,vocals
+bass,91,rock,vocals
 white,87,rock,vocals
-ike,79,rock,vocals
-harris,78,rock,vocals
-ray,78,rock,vocals
 got,21202,rock,ive
 seen,6986,rock,ive
 never,4602,rock,ive
+know,3298,rock,ive
 done,3092,rock,ive
 cause,2577,rock,ive
 ever,2299,rock,ive
 waiting,2221,rock,ive
 found,2089,rock,ive
 lost,2077,rock,ive
-tried,1890,rock,ive
+nothing,8527,rock,theres
 one,5630,rock,theres
+something,4081,rock,theres
 way,2933,rock,theres
+know,2390,rock,theres
 left,2317,rock,theres
 much,2050,rock,theres
 time,1943,rock,theres
 cause,1745,rock,theres
 place,1703,rock,theres
-like,1311,rock,theres
-always,1308,rock,theres
-wrong,1046,rock,theres
+know,795,rock,theyre
 like,695,rock,theyre
 cause,538,rock,theyre
 coming,522,rock,theyre
@@ -508,7 +359,7 @@ think,321,rock,theyre
 say,295,rock,theyre
 always,283,rock,theyre
 us,277,rock,theyre
-still,248,rock,theyre
+know,583,rock,everyone
 knows,530,rock,everyone
 else,495,rock,everyone
 see,417,rock,everyone
@@ -518,87 +369,36 @@ cause,193,rock,everyone
 everything,191,rock,everyone
 tell,185,rock,everyone
 says,176,rock,everyone
-wants,173,rock,everyone
 get,6414,rock,gonna
 make,5238,rock,gonna
 never,4978,rock,gonna
 aint,4842,rock,gonna
 take,3953,rock,gonna
+know,2938,rock,gonna
 go,2319,rock,gonna
+let,1922,rock,gonna
 find,1826,rock,gonna
 tonight,1771,rock,gonna
-change,1739,rock,gonna
-whos,1702,rock,gonna
 take,843,rock,anymore
 cant,796,rock,anymore
+need,327,rock,anymore
+know,302,rock,anymore
+want,297,rock,anymore
 live,282,rock,anymore
 like,278,rock,anymore
 care,256,rock,anymore
 see,253,rock,anymore
 hurt,239,rock,anymore
-cause,220,rock,anymore
-aint,173,rock,anymore
-matter,168,rock,anymore
 never,2417,rock,said
 goodbye,1495,rock,said
 done,1277,rock,said
+hey,1211,rock,said
 things,1185,rock,said
 like,1160,rock,said
 would,1050,rock,said
+know,950,rock,said
 go,840,rock,said
 man,815,rock,said
-always,768,rock,said
-one,750,rock,said
-play,386,rock,guitar
-solo,217,rock,guitar
-zappa,210,rock,guitar
-lead,160,rock,guitar
-rhythm,156,rock,guitar
-white,112,rock,guitar
-ray,110,rock,guitar
-like,110,rock,guitar
-man,107,rock,guitar
-got,102,rock,guitar
-tomorrow,536,rock,today
-world,480,rock,today
-like,402,rock,today
-day,354,rock,today
-cause,354,rock,today
-live,352,rock,today
-got,296,rock,today
-gone,278,rock,today
-ill,258,rock,today
-say,242,rock,today
-tenor,109,rock,saxophone
-baritone,89,rock,saxophone
-alto,77,rock,saxophone
-sherwood,72,rock,saxophone
-gardner,52,rock,saxophone
-soprano,38,rock,saxophone
-clarinet,35,rock,saxophone
-bunk,33,rock,saxophone
-underwood,28,rock,saxophone
-tambourine,25,rock,saxophone
-left,4348,rock,nothing
-aint,3813,rock,nothing
-got,2972,rock,nothing
-like,2078,rock,nothing
-say,1655,rock,nothing
-else,1595,rock,nothing
-ever,1280,rock,nothing
-wrong,1048,rock,nothing
-could,1043,rock,nothing
-lose,984,rock,nothing
-tommy,82,rock,keyboards
-mars,81,rock,keyboards
-duke,61,rock,keyboards
-george,60,rock,keyboards
-martin,60,rock,keyboards
-peter,55,rock,keyboards
-underwood,42,rock,keyboards
-bobby,42,rock,keyboards
-ian,41,rock,keyboards
-barrow,37,rock,keyboards
 life,760,metal,death
 row,313,metal,death
 like,294,metal,death
@@ -620,6 +420,7 @@ sweat,266,metal,blood
 bad,262,metal,blood
 shed,256,metal,blood
 bone,352,metal,flesh
+human,119,metal,flesh
 made,101,metal,flesh
 like,88,metal,flesh
 burning,76,metal,flesh
@@ -627,7 +428,6 @@ weak,62,metal,flesh
 eat,59,metal,flesh
 new,58,metal,flesh
 one,49,metal,flesh
-pound,43,metal,flesh
 tear,43,metal,flesh
 life,285,metal,eternal
 night,124,metal,eternal
@@ -636,9 +436,9 @@ flame,102,metal,eternal
 fire,71,metal,eternal
 light,66,metal,eternal
 rest,62,metal,eternal
+pain,48,metal,eternal
 dark,47,metal,eternal
 damnation,47,metal,eternal
-hate,37,metal,eternal
 never,336,metal,shall
 come,189,metal,shall
 rise,184,metal,shall
@@ -653,12 +453,12 @@ light,282,metal,darkness
 comes,200,metal,darkness
 see,175,metal,darkness
 falls,171,metal,darkness
+let,111,metal,darkness
 night,104,metal,darkness
 around,90,metal,darkness
 like,88,metal,darkness
 come,83,metal,darkness
 world,77,metal,darkness
-inside,74,metal,darkness
 woman,254,metal,evil
 good,248,metal,evil
 man,179,metal,evil
@@ -666,8 +466,8 @@ see,161,metal,evil
 eyes,116,metal,evil
 eye,114,metal,evil
 like,105,metal,evil
-one,91,metal,evil
 get,91,metal,evil
+one,91,metal,evil
 speak,88,metal,evil
 end,794,metal,dead
 gone,701,metal,dead
@@ -680,15 +480,15 @@ night,373,metal,dead
 better,344,metal,dead
 living,279,metal,dead
 whole,38,metal,existence
-life,19,metal,existence
 non,19,metal,existence
+life,19,metal,existence
 mad,18,metal,existence
 denial,16,metal,existence
 kept,16,metal,existence
 cant,14,metal,existence
-hate,12,metal,existence
-man,12,metal,existence
 meaning,12,metal,existence
+man,12,metal,existence
+hate,12,metal,existence
 lost,332,metal,souls
 save,113,metal,souls
 two,100,metal,souls
@@ -696,81 +496,32 @@ fire,87,metal,souls
 many,71,metal,souls
 like,62,metal,souls
 free,51,metal,souls
+let,49,metal,souls
 one,47,metal,souls
 thousand,45,metal,souls
-black,45,metal,souls
-take,789,metal,pain
-ease,617,metal,pain
-much,475,metal,pain
-cause,437,metal,pain
-inside,429,metal,pain
-see,417,metal,pain
-like,360,metal,pain
-felt,317,metal,pain
-pleasure,307,metal,pain
-never,300,metal,pain
-order,50,metal,chaos
-total,24,metal,chaos
-see,24,metal,chaos
-confusion,22,metal,chaos
-world,21,metal,chaos
-life,21,metal,chaos
-rules,19,metal,chaos
-mc,17,metal,chaos
-control,17,metal,chaos
-around,16,metal,chaos
-without,312,metal,fear
-never,285,metal,fear
-live,246,metal,fear
-cause,226,metal,fear
-inside,191,metal,fear
-see,187,metal,fear
-got,179,metal,fear
-life,164,metal,fear
-ill,156,metal,fear
-one,155,metal,fear
-race,834,metal,human
-beings,207,metal,human
-life,139,metal,human
-nature,127,metal,human
-like,107,metal,human
-touch,90,metal,human
-rights,89,metal,human
-kind,85,metal,human
-behavior,58,metal,human
-mind,58,metal,human
-deep,745,metal,within
-soul,190,metal,within
-us,175,metal,within
-mind,172,metal,within
-lies,159,metal,within
-reach,148,metal,within
-eyes,135,metal,within
-life,134,metal,within
-lost,134,metal,within
-live,109,metal,within
 one,385,other,verse
 two,301,other,verse
 first,175,other,verse
 three,149,other,verse
 like,145,other,verse
 every,117,other,verse
-go,89,other,verse
 second,89,other,verse
+go,89,other,verse
 last,85,other,verse
 time,80,other,verse
+badazz,23,other,boosie
 like,21,other,boosie
 get,16,other,boosie
+em,15,other,boosie
 lil,11,other,boosie
 fade,10,other,boosie
 free,5,other,boosie
-bad,5,other,boosie
 boo,5,other,boosie
+bad,5,other,boosie
 real,4,other,boosie
-aint,4,other,boosie
-got,4,other,boosie
 go,91,other,dey
 make,70,other,dey
+know,37,other,dey
 like,36,other,dey
 come,33,other,dey
 de,31,other,dey
@@ -778,27 +529,26 @@ say,27,other,dey
 kill,23,other,dey
 way,22,other,dey
 back,20,other,dey
-find,18,other,dey
 upon,61,other,caravan
 desert,33,other,caravan
 sleep,28,other,caravan
-cross,6,other,caravan
 gypsy,6,other,caravan
+cross,6,other,caravan
 mexican,5,other,caravan
 like,5,other,caravan
-take,4,other,caravan
 plus,4,other,caravan
-running,4,other,caravan
+yes,4,other,caravan
+take,4,other,caravan
 remain,23,other,stardust
 melody,23,other,stardust
 yesterday,21,other,stardust
-space,8,other,stardust
 endless,8,other,stardust
+space,8,other,stardust
 melt,7,other,stardust
+made,6,other,stardust
 get,6,other,stardust
 like,6,other,stardust
-made,6,other,stardust
-mood,5,other,stardust
+sign,5,other,stardust
 mow,212,other,papa
 come,145,other,papa
 oom,116,other,papa
@@ -806,9 +556,9 @@ mama,76,other,papa
 told,61,other,papa
 hoooo,52,other,papa
 mmm,52,other,papa
-say,50,other,papa
 hot,50,other,papa
-tell,36,other,papa
+say,50,other,papa
+know,46,other,papa
 lucky,51,other,charms
 many,50,other,charms
 magic,31,other,charms
@@ -818,7 +568,7 @@ resist,16,other,charms
 tender,13,other,charms
 ill,13,other,charms
 display,10,other,charms
-cant,10,other,charms
+every,10,other,charms
 like,165,other,champion
 sound,49,other,champion
 talk,34,other,champion
@@ -827,88 +577,38 @@ head,22,other,champion
 hear,20,other,champion
 heavyweight,13,other,champion
 one,13,other,champion
-yea,12,other,champion
 see,12,other,champion
+yea,12,other,champion
 thinking,28,other,irreplaceable
-go,7,other,irreplaceable
 must,7,other,irreplaceable
 since,7,other,irreplaceable
+go,7,other,irreplaceable
 lover,4,other,irreplaceable
+nothing,4,other,irreplaceable
 simply,4,other,irreplaceable
+think,3,other,irreplaceable
 amazing,3,other,irreplaceable
-inside,3,other,irreplaceable
 priceless,3,other,irreplaceable
-made,3,other,irreplaceable
 go,28,other,pre
 like,17,other,pre
 cause,16,other,pre
 see,16,other,pre
 game,15,other,pre
 intro,13,other,pre
-millennium,12,other,pre
 life,12,other,pre
 tension,12,other,pre
-fade,11,other,pre
-get,35,other,tipsy
-grew,29,other,tipsy
-little,24,other,tipsy
-like,14,other,tipsy
-gettin,14,other,tipsy
-getting,14,other,tipsy
-kinda,14,other,tipsy
-got,14,other,tipsy
-club,7,other,tipsy
-lil,7,other,tipsy
-des,59,other,qui
-moi,53,other,qui
-mots,39,other,qui
-le,38,other,qui
-toi,37,other,qui
-tout,35,other,qui
-ce,33,other,qui
-se,31,other,qui
-les,30,other,qui
-un,30,other,qui
-summer,227,other,spring
-winter,211,other,spring
-fall,133,other,spring
-like,124,other,spring
-affair,106,other,spring
-time,95,other,spring
-come,69,other,spring
-break,58,other,spring
-day,57,other,spring
-never,50,other,spring
-like,1833,other,nigga
-aint,1395,other,nigga
-get,1371,other,nigga
-young,1212,other,nigga
-got,1150,other,nigga
-real,1147,other,nigga
-thats,941,other,nigga
-make,650,other,nigga
-money,616,other,nigga
-cause,592,other,nigga
-like,209,other,bridge
-troubled,132,other,bridge
-burn,112,other,bridge
-london,103,other,bridge
-cross,94,other,bridge
-across,80,other,bridge
-build,78,other,bridge
-one,72,other,bridge
-every,69,other,bridge
-burned,67,other,bridge
+millennium,12,other,pre
+school,11,other,pre
 road,145,country,lonesome
 get,105,country,lonesome
 hear,93,country,lonesome
 could,87,country,lonesome
 whistle,62,country,lonesome
+feeling,56,country,lonesome
 sound,53,country,lonesome
-day,50,country,lonesome
-long,50,country,lonesome
 town,50,country,lonesome
-call,48,country,lonesome
+long,50,country,lonesome
+day,50,country,lonesome
 man,1873,country,old
 like,1194,country,old
 school,1119,country,old
@@ -941,8 +641,8 @@ hills,35,country,tennessee
 whiskey,23,country,tennessee
 tonks,102,country,honky
 tonkin,77,country,honky
-american,27,country,honky
 bar,27,country,honky
+american,27,country,honky
 song,27,country,honky
 angels,26,country,honky
 get,21,country,honky
@@ -952,113 +652,63 @@ back,19,country,honky
 boy,354,country,country
 song,183,country,country
 little,181,country,country
+music,151,country,country
 thats,135,country,country
 road,118,country,country
 like,115,country,country
 got,105,country,country
 boys,103,country,country
 side,101,country,country
-roads,100,country,country
+dolly,234,country,parton
 writer,10,country,parton
-copyright,7,country,parton
 porter,7,country,parton
-like,4,country,parton
-dorothy,4,country,parton
-jo,4,country,parton
+copyright,7,country,parton
 artist,4,country,parton
+jo,4,country,parton
 hello,4,country,parton
-lyrics,3,country,parton
-met,3,country,parton
+dorothy,4,country,parton
+know,4,country,parton
+like,4,country,parton
 little,287,country,darling
 please,286,country,darling
+know,242,country,darling
 come,227,country,darling
 cant,145,country,darling
 ill,141,country,darling
+let,138,country,darling
 cause,135,country,darling
+sweet,135,country,darling
 go,126,country,darling
-tell,126,country,darling
-hold,104,country,darling
-say,101,country,darling
 like,4240,country,id
 rather,4173,country,id
 never,3604,country,id
 thought,3049,country,id
+know,1722,country,id
 give,1505,country,id
 say,1099,country,id
 go,1037,country,id
 think,1006,country,id
 die,909,country,id
-see,908,country,id
 song,27,country,tonk
-bar,26,country,tonk
 angels,26,country,tonk
+bar,26,country,tonk
 angel,21,country,tonk
 long,19,country,tonk
-woman,18,country,tonk
 man,18,country,tonk
+woman,18,country,tonk
 american,17,country,tonk
-night,13,country,tonk
 time,13,country,tonk
-like,44,country,rodeo
-big,27,country,rodeo
-man,20,country,rodeo
-star,20,country,rodeo
-aint,18,country,rodeo
-ride,17,country,rodeo
-spangled,16,country,rodeo
-queen,16,country,rodeo
-radio,14,country,rodeo
-hes,12,country,rodeo
-battrey,27,country,dolly
-hello,25,country,dolly
-aint,14,country,dolly
-little,11,country,dolly
-writer,10,country,dolly
-like,10,country,dolly
-wants,9,country,dolly
-molly,7,country,dolly
-see,7,country,dolly
-laughs,7,country,dolly
-come,49,country,heartaches
-many,44,country,heartaches
-got,37,country,heartaches
-tears,33,country,heartaches
-back,20,country,heartaches
-thats,19,country,heartaches
-gold,16,country,heartaches
-pennies,16,country,heartaches
-made,16,country,heartaches
-every,13,country,heartaches
-back,72,country,texas
-like,52,country,texas
-west,50,country,texas
-houston,38,country,texas
-across,34,country,texas
-got,31,country,texas
-way,27,country,texas
-thats,26,country,texas
-fo,26,country,texas
-state,25,country,texas
-stop,585,country,loving
-keep,368,country,loving
-cant,339,country,loving
-arms,313,country,loving
-ill,300,country,loving
-like,214,country,loving
-good,183,country,loving
-cause,177,country,loving
-way,165,country,loving
-still,155,country,loving
+night,13,country,tonk
 like,8874,jazz,love
+know,6021,jazz,love
 make,5297,jazz,love
 one,5097,jazz,love
 fall,4860,jazz,love
 true,4684,jazz,love
 got,4440,jazz,love
 way,4438,jazz,love
+let,4287,jazz,love
 cause,4266,jazz,love
-say,4224,jazz,love
-give,4184,jazz,love
 got,660,jazz,blues
 sing,268,jazz,blues
 get,192,jazz,blues
@@ -1085,30 +735,30 @@ mother,234,jazz,dear
 life,190,jazz,dear
 us,178,jazz,dear
 still,167,jazz,dear
+know,160,jazz,dear
 friend,140,jazz,dear
 ill,117,jazz,dear
 one,116,jazz,dear
-little,110,jazz,dear
 day,563,jazz,lovely
 weather,142,jazz,lovely
 way,129,jazz,lovely
 lady,120,jazz,lovely
+sweet,84,jazz,lovely
 ladies,79,jazz,lovely
 one,67,jazz,lovely
 look,66,jazz,lovely
 face,55,jazz,lovely
 night,55,jazz,lovely
-things,52,jazz,lovely
 bad,192,jazz,romance
 true,108,jazz,romance
+want,107,jazz,romance
 new,104,jazz,romance
 find,95,jazz,romance
+sweet,89,jazz,romance
 make,78,jazz,romance
 fine,66,jazz,romance
 little,59,jazz,romance
 ill,48,jazz,romance
-never,47,jazz,romance
-rah,42,jazz,romance
 summer,227,jazz,spring
 winter,211,jazz,spring
 fall,133,jazz,spring
@@ -1121,6 +771,7 @@ day,57,jazz,spring
 never,50,jazz,spring
 never,1121,jazz,may
 come,1056,jazz,may
+know,595,jazz,may
 see,452,jazz,may
 go,447,jazz,may
 find,429,jazz,may
@@ -1128,77 +779,26 @@ seem,417,jazz,may
 though,416,jazz,may
 say,388,jazz,may
 think,386,jazz,may
-day,332,jazz,may
 sky,1557,jazz,blue
 eyes,1213,jazz,blue
 skies,1000,jazz,blue
 black,689,jazz,blue
 deep,606,jazz,blue
 jeans,462,jazz,blue
+feeling,432,jazz,blue
+moon,431,jazz,blue
 white,424,jazz,blue
 like,396,jazz,blue
-red,368,jazz,blue
-big,288,jazz,blue
 every,58,jazz,sigh
 never,50,jazz,sigh
 hear,49,jazz,sigh
 sometimes,44,jazz,sigh
-make,40,jazz,sigh
 one,40,jazz,sigh
+make,40,jazz,sigh
 long,37,jazz,sigh
 like,36,jazz,sigh
-go,27,jazz,sigh
 goodbye,27,jazz,sigh
-full,624,jazz,moon
-like,383,jazz,moon
-sun,376,jazz,moon
-stars,336,jazz,moon
-shining,267,jazz,moon
-new,207,jazz,moon
-night,191,jazz,moon
-see,189,jazz,moon
-light,189,jazz,moon
-high,177,jazz,moon
-get,111,jazz,sentimental
-journey,41,jazz,sentimental
-man,34,jazz,sentimental
-mood,34,jazz,sentimental
-reasons,28,jazz,sentimental
-gentle,27,jazz,sentimental
-thats,24,jazz,sentimental
-fool,17,jazz,sentimental
-bliss,17,jazz,sentimental
-make,17,jazz,sentimental
-fools,67,jazz,april
-ill,59,jazz,april
-remember,55,jazz,april
-day,39,jazz,april
-march,37,jazz,april
-paris,35,jazz,april
-like,33,jazz,april
-shower,33,jazz,april
-rain,31,jazz,april
-february,28,jazz,april
-little,732,jazz,sweet
-like,663,jazz,sweet
-dreams,544,jazz,sweet
-thing,497,jazz,sweet
-life,353,jazz,sweet
-got,340,jazz,sweet
-make,321,jazz,sweet
-lips,308,jazz,sweet
-sugar,294,jazz,sweet
-lovin,291,jazz,sweet
-like,1091,jazz,dream
-come,932,jazz,dream
-true,827,jazz,dream
-every,642,jazz,dream
-one,512,jazz,dream
-another,410,jazz,dream
-little,405,jazz,dream
-night,403,jazz,dream
-never,398,jazz,dream
-make,389,jazz,dream
+go,27,jazz,sigh
 man,364,electronic,dem
 say,348,electronic,dem
 gal,327,electronic,dem
@@ -1210,35 +810,36 @@ go,216,electronic,dem
 girls,208,electronic,dem
 ah,192,electronic,dem
 dreamin,32,electronic,apos
+want,13,electronic,apos
 time,12,electronic,apos
 done,11,electronic,apos
 cause,10,electronic,apos
 clean,10,electronic,apos
+know,9,electronic,apos
 look,8,electronic,apos
 tell,8,electronic,apos
-got,7,electronic,apos
-times,7,electronic,apos
-seen,7,electronic,apos
+let,8,electronic,apos
 like,13790,electronic,feel
 make,7656,electronic,feel
 way,4565,electronic,feel
 good,3392,electronic,feel
 makes,2390,electronic,feel
+pain,2350,electronic,feel
 cant,2239,electronic,feel
 right,1866,electronic,feel
 alive,1621,electronic,feel
 inside,1594,electronic,feel
-could,1334,electronic,feel
 santa,152,electronic,fe
 come,66,electronic,fe
+want,37,electronic,fe
 galang,32,electronic,fe
 nah,24,electronic,fe
 take,21,electronic,fe
 fo,19,electronic,fe
+gwan,17,electronic,fe
 youth,17,electronic,fe
 see,17,electronic,fe
-gwan,17,electronic,fe
-go,15,electronic,fe
+know,5770,electronic,wanna
 see,4301,electronic,wanna
 go,4149,electronic,wanna
 get,3690,electronic,wanna
@@ -1248,17 +849,16 @@ say,1777,electronic,wanna
 take,1714,electronic,wanna
 hear,1701,electronic,wanna
 live,1443,electronic,wanna
-like,1334,electronic,wanna
 like,8874,electronic,love
+know,6021,electronic,love
 make,5297,electronic,love
 one,5097,electronic,love
 fall,4860,electronic,love
 true,4684,electronic,love
 got,4440,electronic,love
 way,4438,electronic,love
+let,4287,electronic,love
 cause,4266,electronic,love
-say,4224,electronic,love
-give,4184,electronic,love
 like,865,electronic,party
 get,572,electronic,party
 night,491,electronic,party
@@ -1268,15 +868,15 @@ lets,408,electronic,party
 tonight,360,electronic,party
 aint,290,electronic,party
 come,261,electronic,party
-came,231,electronic,party
+want,237,electronic,party
 call,30,electronic,max
 air,28,electronic,max
 like,20,electronic,max
 relax,18,electronic,max
 sex,16,electronic,max
 go,13,electronic,max
-thats,12,electronic,max
 ahhh,12,electronic,max
+thats,12,electronic,max
 mad,10,electronic,max
 got,10,electronic,max
 king,33,electronic,selassie
@@ -1286,109 +886,59 @@ high,5,electronic,selassie
 promise,4,electronic,selassie
 say,4,electronic,selassie
 see,4,electronic,selassie
-plus,3,electronic,selassie
-omega,3,electronic,selassie
+word,3,electronic,selassie
 flying,3,electronic,selassie
+plus,3,electronic,selassie
 floor,1594,electronic,dance
 lets,985,electronic,dance
 night,896,electronic,dance
 like,865,electronic,dance
 come,664,electronic,dance
+want,643,electronic,dance
 make,604,electronic,dance
 last,463,electronic,dance
 one,416,electronic,dance
 cant,349,electronic,dance
-around,346,electronic,dance
-gimme,323,electronic,bass
-low,205,electronic,bass
-drum,118,electronic,bass
-dirty,100,electronic,bass
-got,92,electronic,bass
-like,91,electronic,bass
-line,88,electronic,bass
-head,85,electronic,bass
-estrada,73,electronic,bass
-drop,68,electronic,bass
-like,2521,electronic,feeling
-got,2198,electronic,feeling
-good,952,electronic,feeling
-get,921,electronic,feeling
-inside,650,electronic,feeling
-cause,493,electronic,feeling
-right,490,electronic,feeling
-way,472,electronic,feeling
-fine,431,electronic,feeling
-cant,398,electronic,feeling
-play,669,electronic,music
-make,565,electronic,music
-hear,558,electronic,music
-like,542,electronic,music
-got,414,electronic,music
-turn,406,electronic,music
-loud,284,electronic,music
-words,267,electronic,music
-take,253,electronic,music
-playing,247,electronic,music
-move,919,electronic,body
-like,917,electronic,body
-rock,898,electronic,body
-make,665,electronic,body
-soul,640,electronic,body
-got,467,electronic,body
-work,423,electronic,body
-shake,409,electronic,body
-get,399,electronic,body
-mind,335,electronic,body
-get,2341,electronic,ready
-go,1741,electronic,ready
-aint,596,electronic,ready
-cause,420,electronic,ready
-think,401,electronic,ready
-die,374,electronic,ready
-getting,362,electronic,ready
-rock,288,electronic,ready
-better,279,electronic,ready
-lets,277,electronic,ready
 bo,23,folk,tae
 like,12,folk,tae
+ye,7,folk,tae
 homeward,7,folk,tae
 think,7,folk,tae
 go,6,folk,tae
 cam,5,folk,tae
-yer,5,folk,tae
 young,5,folk,tae
+yer,5,folk,tae
 back,4,folk,tae
-call,3,folk,tae
 calling,24,folk,glen
 solo,6,folk,glen
 poison,4,folk,glen
-easter,4,folk,glen
 hill,4,folk,glen
 one,4,folk,glen
-got,3,folk,glen
-fire,3,folk,glen
-ill,3,folk,glen
+like,3,folk,glen
 mountain,3,folk,glen
+got,3,folk,glen
+stood,3,folk,glen
+echoed,3,folk,glen
 streets,31,folk,wi
 drop,30,folk,wi
-incomplete,24,folk,wi
 get,24,folk,wi
+incomplete,24,folk,wi
 deh,23,folk,wi
+know,18,folk,wi
 like,17,folk,wi
-go,17,folk,wi
 come,17,folk,wi
-whole,16,folk,wi
+go,17,folk,wi
 click,16,folk,wi
+det,21,folk,ar
 15,11,folk,ar
-art,7,folk,ar
 make,7,folk,ar
+art,7,folk,ar
 sa,6,folk,ar
-lets,4,folk,ar
-got,4,folk,ar
-backwards,4,folk,ar
 running,4,folk,ar
-bra,3,folk,ar
-thats,3,folk,ar
+got,4,folk,ar
+lets,4,folk,ar
+mo,4,folk,ar
+backwards,4,folk,ar
 together,16,folk,ireland
 northern,14,folk,ireland
 say,11,folk,ireland
@@ -1396,29 +946,29 @@ cry,9,folk,ireland
 standing,8,folk,ireland
 boy,5,folk,ireland
 came,5,folk,ireland
-peace,4,folk,ireland
-call,4,folk,ireland
-spoken,4,folk,ireland
+bit,4,folk,ireland
+golden,4,folk,ireland
+eyes,4,folk,ireland
 bad,58,folk,lad
 boy,49,folk,lad
 certain,20,folk,lad
 young,15,folk,lad
 little,13,folk,lad
 good,13,folk,lad
-thats,12,folk,lad
 ho,12,folk,lad
+thats,12,folk,lad
 business,11,folk,lad
 jack,9,folk,lad
 see,10,folk,neer
 ill,6,folk,neer
 another,5,folk,neer
 seen,5,folk,neer
-right,4,folk,neer
-teenage,4,folk,neer
 soul,4,folk,neer
+teenage,4,folk,neer
+right,4,folk,neer
 thou,4,folk,neer
-broken,3,folk,neer
 return,3,folk,neer
+gang,3,folk,neer
 fair,32,folk,maid
 rita,31,folk,maid
 meter,30,folk,maid
@@ -1428,7 +978,7 @@ like,15,folk,maid
 french,12,folk,maid
 pretty,11,folk,maid
 ill,9,folk,maid
-little,8,folk,maid
+man,8,folk,maid
 day,82,folk,fol
 lol,62,folk,fol
 doh,60,folk,fol
@@ -1436,8 +986,8 @@ whack,37,folk,fol
 ri,36,folk,fol
 de,36,folk,fol
 aa,36,folk,fol
+dle,36,folk,fol
 daddy,12,folk,fol
-diddle,11,folk,fol
 dah,8,folk,fol
 land,42,folk,oer
 fields,28,folk,oer
@@ -1446,139 +996,91 @@ sleigh,26,folk,oer
 wave,23,folk,oer
 hills,22,folk,oer
 sweetly,21,folk,oer
-hill,20,folk,oer
-singing,20,folk,oer
 world,20,folk,oer
-come,436,folk,ye
-joyful,123,folk,ye
-aint,112,folk,ye
-faithful,92,folk,ye
-bethlehem,75,folk,ye
-god,68,folk,ye
-sing,65,folk,ye
-rest,64,folk,ye
-gentlemen,60,folk,ye
-merry,57,folk,ye
-road,38,folk,dublin
-one,24,folk,dublin
-way,24,folk,dublin
-whack,24,folk,dublin
-two,22,folk,dublin
-city,16,folk,dublin
-town,15,folk,dublin
-next,8,folk,dublin
-arrived,8,folk,dublin
-remember,6,folk,dublin
-thug,460,folk,mo
-money,373,folk,mo
-murda,225,folk,mo
-get,121,folk,mo
-slow,118,folk,mo
-got,109,folk,mo
-one,105,folk,mo
-murder,99,folk,mo
-mony,96,folk,mo
-fee,62,folk,mo
-fare,182,folk,thee
-god,140,folk,thee
-see,131,folk,thee
-nearer,118,folk,thee
-come,70,folk,thee
-great,70,folk,thee
-met,69,folk,thee
-lie,67,folk,thee
-tonight,66,folk,thee
-close,52,folk,thee
-merry,2121,folk,christmas
-day,1215,folk,christmas
-tree,875,folk,christmas
-time,829,folk,christmas
-eve,495,folk,christmas
-like,425,folk,christmas
-little,419,folk,christmas
-every,342,folk,christmas
-white,311,folk,christmas
-bells,201,folk,christmas
+singing,20,folk,oer
+hill,20,folk,oer
 come,6184,r b,baby
+know,3441,r b,baby
 got,3128,r b,baby
 go,2966,r b,baby
 like,2698,r b,baby
 cause,2608,r b,baby
+hey,2447,r b,baby
 please,2429,r b,baby
+let,2427,r b,baby
 tell,2342,r b,baby
-cant,2198,r b,baby
-get,2167,r b,baby
-thats,1935,r b,baby
+simmons,28,r b,babyface
 daryl,28,r b,babyface
 reid,25,r b,babyface
 1996,10,r b,babyface
 1999,7,r b,babyface
 el,4,r b,babyface
 keith,4,r b,babyface
-nights,3,r b,babyface
+queen,3,r b,babyface
 david,3,r b,babyface
 get,3,r b,babyface
-queen,3,r b,babyface
 times,116,r b,hook
 got,109,r b,hook
 like,75,r b,hook
+know,56,r b,hook
 line,56,r b,hook
 right,54,r b,hook
 get,48,r b,hook
 go,47,r b,hook
 cant,40,r b,hook
 cause,40,r b,hook
-ill,34,r b,hook
 like,8874,r b,love
+know,6021,r b,love
 make,5297,r b,love
 one,5097,r b,love
 fall,4860,r b,love
 true,4684,r b,love
 got,4440,r b,love
 way,4438,r b,love
+let,4287,r b,love
 cause,4266,r b,love
-say,4224,r b,love
-give,4184,r b,love
+bridge,19,r b,1x
+need,5,r b,1x
 nanananana,4,r b,1x
-dog,3,r b,1x
-eyes,3,r b,1x
+hey,4,r b,1x
 one,3,r b,1x
-ladies,3,r b,1x
 dick,3,r b,1x
+em,3,r b,1x
+dogs,3,r b,1x
 cant,3,r b,1x
 owe,3,r b,1x
-dogs,3,r b,1x
-bone,2,r b,1x
 little,3694,r b,girl
+know,3160,r b,girl
 like,2902,r b,girl
 got,2421,r b,girl
 get,1671,r b,girl
+want,1533,r b,girl
+hey,1466,r b,girl
 go,1337,r b,girl
 good,1290,r b,girl
 come,1168,r b,girl
-see,1093,r b,girl
-one,1062,r b,girl
-cause,1026,r b,girl
 whoa,6855,r b,oh
 uh,4412,r b,oh
 go,3581,r b,oh
+know,3506,r b,oh
 god,3204,r b,oh
 like,2879,r b,oh
+yes,2586,r b,oh
 come,2572,r b,oh
+hey,2482,r b,oh
 say,2456,r b,oh
-ah,2286,r b,oh
-time,2278,r b,oh
-cant,2114,r b,oh
 like,159,r b,woah
+hey,89,r b,woah
 go,80,r b,woah
 uh,80,r b,woah
 street,68,r b,woah
 front,62,r b,woah
 ohh,49,r b,woah
 say,48,r b,woah
+know,47,r b,woah
 ah,47,r b,woah
-get,45,r b,woah
-tonight,42,r b,woah
+know,3604,r b,yeah
+hey,2924,r b,yeah
 got,2620,r b,yeah
 like,2510,r b,yeah
 thats,2112,r b,yeah
@@ -1587,88 +1089,36 @@ right,1983,r b,yeah
 come,1905,r b,yeah
 say,1801,r b,yeah
 get,1725,r b,yeah
-go,1608,r b,yeah
-time,1461,r b,yeah
 name,88,r b,written
 words,83,r b,written
-stone,41,r b,written
 see,41,r b,written
+stone,41,r b,written
 got,38,r b,written
-billy,36,r b,written
 bob,36,r b,written
+billy,36,r b,written
 song,34,r b,written
 letters,33,r b,written
 whats,31,r b,written
-say,1679,r b,hey
-little,908,r b,hey
-man,898,r b,hey
-ho,729,r b,hey
-go,721,r b,hey
-like,691,r b,hey
-way,688,r b,hey
-come,668,r b,hey
-boy,627,r b,hey
-whats,594,r b,hey
-see,3604,r b,want
-really,3391,r b,want
-go,3093,r b,want
-say,2557,r b,want
-make,2488,r b,want
-get,2318,r b,want
-live,1706,r b,want
-hear,1690,r b,want
-back,1675,r b,want
-cause,1649,r b,want
-daryl,38,r b,simmons
-jeff,33,r b,simmons
-russell,27,r b,simmons
-like,20,r b,simmons
-gene,16,r b,simmons
-richard,14,r b,simmons
-ron,10,r b,simmons
-diggy,10,r b,simmons
-percussion,8,r b,simmons
-rhythm,8,r b,simmons
-say,1179,r b,yes
-sir,633,r b,yes
-ill,497,r b,yes
-got,411,r b,yes
-true,399,r b,yes
-man,338,r b,yes
-time,328,r b,yes
-like,294,r b,yes
-one,288,r b,yes
-go,271,r b,yes
-little,237,r b,darlin
-ill,113,r b,darlin
-please,96,r b,darlin
-come,77,r b,darlin
-cause,68,r b,darlin
-tell,68,r b,darlin
-got,62,r b,darlin
-go,61,r b,darlin
-say,56,r b,darlin
-cant,56,r b,darlin
 mouse,89,indie,mickey
+hey,63,indie,mickey
 like,33,indie,mickey
 huff,32,indie,mickey
 ds,27,indie,mickey
 mind,15,indie,mickey
 say,12,indie,mickey
-hand,10,indie,mickey
+mantle,11,indie,mickey
 break,10,indie,mickey
-got,9,indie,mickey
-club,8,indie,mickey
+hand,10,indie,mickey
 jones,270,indie,mrs
 johnstone,50,indie,mrs
+hey,40,indie,mrs
 claus,38,indie,mrs
 please,36,indie,mrs
 mr,33,indie,mrs
 robinson,31,indie,mrs
 potter,28,indie,mrs
-santa,21,indie,mrs
-johnson,17,indie,mrs
-say,16,indie,mrs
+brice,26,indie,mrs
+lyons,21,indie,mrs
 pum,235,indie,pa
 rum,179,indie,pa
 ba,135,indie,pa
@@ -1676,39 +1126,39 @@ pe,122,indie,pa
 ra,89,indie,pa
 pam,68,indie,pa
 ram,63,indie,pa
-ta,56,indie,pa
 pachangas,56,indie,pa
+ta,56,indie,pa
 mmmbop,33,indie,pa
-back,21,indie,suzanne
 understand,21,indie,suzanne
+back,21,indie,suzanne
 come,20,indie,suzanne
+know,18,indie,suzanne
 gone,8,indie,suzanne
 plans,8,indie,suzanne
-goodnight,6,indie,suzanne
 true,6,indie,suzanne
+goodnight,6,indie,suzanne
+sweet,6,indie,suzanne
 lola,4,indie,suzanne
-takes,4,indie,suzanne
-hope,3,indie,suzanne
 little,287,indie,darling
 please,286,indie,darling
+know,242,indie,darling
 come,227,indie,darling
 cant,145,indie,darling
 ill,141,indie,darling
+let,138,indie,darling
 cause,135,indie,darling
+sweet,135,indie,darling
 go,126,indie,darling
-tell,126,indie,darling
-hold,104,indie,darling
-say,101,indie,darling
 never,587,indie,grow
+let,381,indie,grow
 ill,221,indie,grow
 flowers,191,indie,grow
-long,150,indie,grow
+want,158,indie,grow
 watch,150,indie,grow
+long,150,indie,grow
 cold,149,indie,grow
 trees,145,indie,grow
 time,142,indie,grow
-like,135,indie,grow
-would,129,indie,grow
 deep,469,indie,sea
 across,393,indie,sea
 like,326,indie,sea
@@ -1734,11 +1184,11 @@ bella,13,indie,linda
 que,10,indie,linda
 one,9,indie,linda
 song,8,indie,linda
-online,6,indie,linda
 okay,6,indie,linda
-try,6,indie,linda
 mais,6,indie,linda
-name,5,indie,linda
+try,6,indie,linda
+online,6,indie,linda
+see,5,indie,linda
 broken,308,indie,bones
 break,284,indie,bones
 skin,200,indie,bones
@@ -1749,53 +1199,3 @@ take,59,indie,bones
 get,56,indie,bones
 lay,48,indie,bones
 see,46,indie,bones
-whoa,6855,indie,oh
-uh,4412,indie,oh
-go,3581,indie,oh
-god,3204,indie,oh
-like,2879,indie,oh
-come,2572,indie,oh
-say,2456,indie,oh
-ah,2286,indie,oh
-time,2278,indie,oh
-cant,2114,indie,oh
-cup,185,indie,tea
-iced,46,indie,tea
-like,44,indie,tea
-two,40,indie,tea
-drink,37,indie,tea
-ice,36,indie,tea
-bitter,29,indie,tea
-time,28,indie,tea
-take,26,indie,tea
-make,26,indie,tea
-got,2328,indie,something
-say,1701,indie,something
-new,1461,indie,something
-like,1422,indie,something
-wrong,1414,indie,something
-tell,1258,indie,something
-give,1177,indie,something
-thats,868,indie,something
-cant,842,indie,something
-inside,839,indie,something
-go,84,indie,betweens
-lyrics,83,indie,betweens
-fall,6,indie,betweens
-back,6,indie,betweens
-slowing,5,indie,betweens
-bye,4,indie,betweens
-never,3,indie,betweens
-dive,2,indie,betweens
-streets,2,indie,betweens
-bachelor,2,indie,betweens
-much,152,indie,easier
-make,145,indie,easier
-get,93,indie,easier
-way,63,indie,easier
-say,55,indie,easier
-makes,54,indie,easier
-would,48,indie,easier
-getting,45,indie,easier
-gets,40,indie,easier
-things,33,indie,easier

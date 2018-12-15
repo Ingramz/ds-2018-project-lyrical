@@ -41,7 +41,7 @@ def document_generator(df, wordlist):
 
 
 NUMWORDS_SURROUNDING = 2
-NUMWORDS_PER_GENRE = 15
+NUMWORDS_PER_GENRE = 10
 NUMWORDS_RELATED = 10
 
 d = pd.read_csv("proc_csv/LLgenre.csv")
