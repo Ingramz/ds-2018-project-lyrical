@@ -1,0 +1,22 @@
+{
+  "name": "dataset-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "csv": "^5.0.0",
+    "hashmap": "^2.3.0",
+    "iconv": "^2.3.1",
+    "json2csv": "^4.3.2",
+    "papaparse": "^4.6.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "request-promise-native": "^1.0.5"
+  }
+}
