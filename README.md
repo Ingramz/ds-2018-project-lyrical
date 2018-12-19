@@ -1,5 +1,7 @@
 # LYRICAL
 
+## [Build your own playlist app](https://ingramz.github.io/ds-2018-project-lyrical/)
+
 Analysing popularity of songs based on song lyrics and chart performance of similar songs.
 
 Project members: Indrek Ardel & Mateus Surrage Reis
